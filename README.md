@@ -141,4 +141,4 @@ The initial state is set to `user`.
 	* Reply: back to state3 , rebook the order
 
 ## Author
-[Lee-W](https://github.com/Lee-W) Doris Tsao
+[Lee-W](https://github.com/Lee-W) [Doris Tsao](https://github.com/YuRongTsao)
